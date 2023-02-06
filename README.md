@@ -24,8 +24,8 @@ $ git clone https://github.com/neurospin/fMRI_workshop.git
 $ cd fMRI_workshop
 ```
 
-Although not required, we recommend creating and activating a virtual environment before installing the requirements:
-The example show how to do this using Python venv module but you can use any environment package you're used to:
+Although not required, we recommend creating and activating a virtual environment before installing the requirements.
+The example below shows how to do this using Python venv module but you can use any environment manager you're used to:
 
 ```
 python3 -m venv tutorial
