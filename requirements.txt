@@ -1,0 +1,3 @@
+nilearn
+jupyterlab
+matplotlib
