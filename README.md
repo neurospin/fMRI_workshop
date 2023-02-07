@@ -38,6 +38,6 @@ $ pip install -r requirements.txt
 Launch the notebooks:
 
 ```
-$ cd Notebooks
+$ cd notebooks
 $ jupyter-notebook
 ```
