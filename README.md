@@ -3,11 +3,15 @@
 Material for fMRI training that takes place at Neurospin
 
 
-## Binder link:
+## Binder links:
+
+Link to base of repository to access all notebooks:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurospin/fMRI_workshop/HEAD)
 
-The python notebook "basic_encoding.ipynb" will be run using google colab [here](https://colab.research.google.com/github/neurospin/fMRI_workshop/blob/main/notebooks/basic_encoding.ipynb)
+Additional link:
+
+The python notebook "basic_encoding.ipynb" can be run using google colab [here](https://colab.research.google.com/github/neurospin/fMRI_workshop/blob/main/notebooks/basic_encoding.ipynb)
 
 
 ## Local installation instructions:
