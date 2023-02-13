@@ -9,6 +9,8 @@ Link to base of repository to *access and run* all notebooks:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurospin/fMRI_workshop/HEAD)
 
+**Note**: Running multiple notebooks without shutting down any kernels of ones you have finished with might lead to a notebook crashing because of exceeding the 2GB of memory allocated by Binder. You can shut down the kernels of individual notebooks to free up memory or shut down all kernels to have a fresh start. 
+
 
 ## Local installation instructions:
 
