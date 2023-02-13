@@ -3,7 +3,7 @@
 Material for fMRI training that takes place at Neurospin
 
 
-## Binder links:
+## Binder link:
 
 Link to base of repository to access all notebooks:
 
