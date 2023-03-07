@@ -1,7 +1,21 @@
-# fMRI_workshop
+# NeuroSpin fMRI workshop 2023
+February 14-15-16  
+Organization: Pauline Favre  
+Speakers:
+- Day 1: Preprocessing. Antonio Moreno, Yann Leprince
+- Day 2: Encoding analyses. Florent Meyniel
+- Day 3: Decoding analyses and functional connectivity. Bertrand Thirion
 
-Material for fMRI training that takes place at Neurospin
+# Videos of the talk
+Available soon
 
+# Slides
+Slides from the different speakers
+
+# Notebooks
+
+Notebooks for fMRI training that took place at Neurospin.  
+There are two options to run the notebooks.
 
 ## Binder link:
 
