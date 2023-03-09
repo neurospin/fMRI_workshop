@@ -7,7 +7,7 @@ Speakers:
 - Day 3: Decoding analyses and functional connectivity. Bertrand Thirion
 
 # Videos of the talk
-Available soon
+Available on the [neurospin's wiki](https://www.neurospin-wiki.org/pmwiki/Main/MRIDataAnalysisTutorials)
 
 # Slides
 Slides from the different speakers
